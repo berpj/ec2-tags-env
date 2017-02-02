@@ -1,0 +1,6 @@
+pipeline:
+  slack:
+    image: plugins/slack
+    webhook: https://hooks.slack.com/services/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
+    username: drone
+    icon_url: https://unsplash.it/256/256/?random
